@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head {
+    width: 100%;
+    height: 8vh;
+    background-color: rgb(211, 211, 211);
+}
+
+.head h1 {
+    margin-left: 1%;
+    font-weight: bold;
+    padding-top: 0.5%;
+}
+
+#bt{
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    position: sticky;
+    left: 89vw;
+}
+
+.tabela{
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#registarTipo{
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+}
+
+
+#updateTipo{
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+}
+
+
+#btnn{
+    display: flex;
+    justify-content: space-around;
+}
+
